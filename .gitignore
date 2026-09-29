@@ -1,0 +1,17 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# YOLO Runs and Weights
+runs/
+*.pt
+
+# Data and Config secrets
+data/
+config/.env
+check_env.py
